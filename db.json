@@ -172,23 +172,5 @@
 			"LastName": "Doe",
 			"UserRole": "User"
 		}
-	],
-	"UserAccount": [
-		{
-			"UserID": 1,
-			"UserAccount": 67343
-		},
-		{
-			"UserID": 1,
-			"UserAccount": 67343
-		},
-		{
-			"UserID": 2,
-			"UserAccount": 67344
-		},
-		{
-			"UserID": 3,
-			"UserAccount": 67344
-		}
 	]
 }
