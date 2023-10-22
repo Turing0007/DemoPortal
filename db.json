@@ -25,7 +25,7 @@
 			"Status": "Pending"
 		}
 	],
-	[
+	"DocList":[
     {
         "DocID": 1,
         "DocName": "DocID 00123",
@@ -66,7 +66,7 @@
         "AccountNumber": 67344,
         "Unread": "No"
     }
-],
+] ,
 	"AccountList": [
 		{
 			"AccountID": 1,
@@ -123,42 +123,56 @@
 			"CreditDiscard": 0
 		}
 	],
-	[
-    {
-        "UserID": 1,
-        "UserName": "Jsmith",
-        "Email": "james.Smith@test.com",
-        "FirstName": "James",
-        "LastName": "Smith",
-        "UserRole": "User",
-        "AccountAccess": "67343,67344"
-    },
-    {
-        "UserID": 2,
-        "UserName": "Jdoe",
-        "Email": "Jane.Doe@test.com",
-        "FirstName": "Jane",
-        "LastName": "Doe",
-        "UserRole": "User",
-        "AccountAccess": 67343
-    },
-    {
-        "UserID": 3,
-        "UserName": "Jsmith",
-        "Email": "james.Smith@test123.com",
-        "FirstName": "James",
-        "LastName": "Smith",
-        "UserRole": "User",
-        "AccountAccess": "67343,67344"
-    },
-    {
-        "UserID": 4,
-        "UserName": "Jdoe",
-        "Email": "Jane.Doe@test123.com",
-        "FirstName": "Jane",
-        "LastName": "Doe",
-        "UserRole": "User",
-        "AccountAccess": 67344
-    }
-]
+	"UserList": [
+		{
+			"UserID": 1,
+			"UserName": "Jsmith",
+			"Email": "james.Smith@test.com",
+			"FirstName": "James",
+			"LastName": "Smith",
+			"UserRole": "User"
+		},
+		{
+			"UserID": 2,
+			"UserName": "Jdoe",
+			"Email": "Jane.Doe@test.com",
+			"FirstName": "Jane",
+			"LastName": "Doe",
+			"UserRole": "User"
+		},
+		{
+			"UserID": 3,
+			"UserName": "Jsmith",
+			"Email": "james.Smith@test123.com",
+			"FirstName": "James",
+			"LastName": "Smith",
+			"UserRole": "User"
+		},
+		{
+			"UserID": 4,
+			"UserName": "Jdoe",
+			"Email": "Jane.Doe@test123.com",
+			"FirstName": "Jane",
+			"LastName": "Doe",
+			"UserRole": "User"
+		}
+	],
+	"UserAccount": [
+		{
+			"UserID": 1,
+			"UserAccount": 67343
+		},
+		{
+			"UserID": 1,
+			"UserAccount": 67343
+		},
+		{
+			"UserID": 2,
+			"UserAccount": 67344
+		},
+		{
+			"UserID": 3,
+			"UserAccount": 67344
+		}
+	]
 }
