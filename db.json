@@ -145,32 +145,28 @@
 			"UserName": "Jsmith",
 			"Email": "james.Smith@test.com",
 			"FirstName": "James",
-			"LastName": "Smith",
-			"UserRole": "User"
+			"LastName": "Smith"
 		},
 		{
 			"UserID": 2,
 			"UserName": "Jdoe",
 			"Email": "Jane.Doe@test.com",
 			"FirstName": "Jane",
-			"LastName": "Doe",
-			"UserRole": "User"
+			"LastName": "Doe"
 		},
 		{
 			"UserID": 3,
 			"UserName": "Jsmith",
 			"Email": "james.Smith@test123.com",
 			"FirstName": "James",
-			"LastName": "Smith",
-			"UserRole": "User"
+			"LastName": "Smith"
 		},
 		{
 			"UserID": 4,
 			"UserName": "Jdoe",
 			"Email": "Jane.Doe@test123.com",
 			"FirstName": "Jane",
-			"LastName": "Doe",
-			"UserRole": "User"
+			"LastName": "Doe"
 		}
 	]
 }
