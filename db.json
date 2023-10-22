@@ -25,64 +25,48 @@
 			"Status": "Pending"
 		}
 	],
-	"DocList": [
-		{
-			"1": null,
-			"2": null,
-			"3": null,
-			"DocID": 1,
-			"DocName": "DocID 00123",
-			"DocType": "PDF",
-			"DateCreated": "20/10/2023  23:12:11",
-			"DocSize": 23,
-			"Amount": 12943.23,
-			"AccountNumber": 67343,
-			"Unread": "Yes",
-			"": null
-		},
-		{
-			"1": null,
-			"2": null,
-			"3": null,
-			"DocID": 2,
-			"DocName": "DocID 99234",
-			"DocType": "PDF",
-			"DateCreated": "15/10/2022  10:15:22",
-			"DocSize": 34,
-			"Amount": 165.55,
-			"AccountNumber": 67343,
-			"Unread": "Yes",
-			"": null
-		},
-		{
-			"1": null,
-			"2": null,
-			"3": null,
-			"DocID": 3,
-			"DocName": "DocID 33232",
-			"DocType": "PDF",
-			"DateCreated": "12/10/2023  09:33:00",
-			"DocSize": 22,
-			"Amount": 456.12,
-			"AccountNumber": 67344,
-			"Unread": "No",
-			"": null
-		},
-		{
-			"1": null,
-			"2": null,
-			"3": null,
-			"DocID": 4,
-			"DocName": "DocID 23422",
-			"DocType": "PDF",
-			"DateCreated": "24/02/2022  10:12:22",
-			"DocSize": 120,
-			"Amount": 4568.4,
-			"AccountNumber": 67344,
-			"Unread": "No",
-			"": null
-		}
-	],
+	[
+    {
+        "DocID": 1,
+        "DocName": "DocID 00123",
+        "DocType": "PDF",
+        "DateCreated": "20/10/2023  23:12:11",
+        "DocSize": 23,
+        "Amount": 12943.23,
+        "AccountNumber": 67343,
+        "Unread": "Yes"
+    },
+    {
+        "DocID": 2,
+        "DocName": "DocID 99234",
+        "DocType": "PDF",
+        "DateCreated": "15/10/2022  10:15:22",
+        "DocSize": 34,
+        "Amount": 165.55,
+        "AccountNumber": 67343,
+        "Unread": "Yes"
+    },
+    {
+        "DocID": 3,
+        "DocName": "DocID 33232",
+        "DocType": "PDF",
+        "DateCreated": "12/10/2023  09:33:00",
+        "DocSize": 22,
+        "Amount": 456.12,
+        "AccountNumber": 67344,
+        "Unread": "No"
+    },
+    {
+        "DocID": 4,
+        "DocName": "DocID 23422",
+        "DocType": "PDF",
+        "DateCreated": "24/02/2022  10:12:22",
+        "DocSize": 120,
+        "Amount": 4568.4,
+        "AccountNumber": 67344,
+        "Unread": "No"
+    }
+],
 	"AccountList": [
 		{
 			"AccountID": 1,
