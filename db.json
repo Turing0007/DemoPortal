@@ -123,58 +123,53 @@
 			"CreditDiscard": 0
 		}
 	],
-	"UserList": [
-		{
-			"UserID": 1,
-			"UserName": "Jsmith",
-			"Email": "james.Smith@test.com",
-			"FirstName": "James",
-			"LastName": "Smith",
-			"UserRole": "User",
-			"Accounts": [
-				"a",
-				"b",
-				"c"
-			]
-		},
-		{
-			"UserID": 2,
-			"UserName": "Jdoe",
-			"Email": "Jane.Doe@test.com",
-			"FirstName": "Jane",
-			"LastName": "Doe",
-			"UserRole": "User",
-			"Accounts": [
-				"a",
-				"b",
-				"c"
-			]
-		},
-		{
-			"UserID": 3,
-			"UserName": "Jsmith",
-			"Email": "james.Smith@test123.com",
-			"FirstName": "James",
-			"LastName": "Smith",
-			"UserRole": "User",
-			"Accounts": [
-				"a",
-				"b",
-				"c"
-			]
-		},
-		{
-			"UserID": 4,
-			"UserName": "Jdoe",
-			"Email": "Jane.Doe@test123.com",
-			"FirstName": "Jane",
-			"LastName": "Doe",
-			"UserRole": "User",
-			"Accounts": [
-				"a",
-				"b",
-				"c"
-			]
-		}
-	]
+[
+  {
+    "UserID": 1,
+    "UserName": "Jsmith",
+    "Email": "james.Smith@test.com",
+    "FirstName": "James",
+    "LastName": "Smith",
+    "UserRole": "User",
+    "Accounts": [
+      "67344",
+      "67343"
+    ]
+  },
+  {
+    "UserID": 2,
+    "UserName": "Jdoe",
+    "Email": "Jane.Doe@test.com",
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "UserRole": "User",
+    "Accounts": [
+      "67344",
+      "67343"
+    ]  },
+  {
+    "UserID": 3,
+    "UserName": "Jsmith",
+    "Email": "james.Smith@test123.com",
+    "FirstName": "James",
+    "LastName": "Smith",
+    "UserRole": "User",
+    "Accounts": [
+      "67344",
+      "67343"
+    ]
+	},
+  {
+    "UserID": 4,
+    "UserName": "Jdoe",
+    "Email": "Jane.Doe@test123.com",
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "UserRole": "User",
+    "Accounts": [
+      "67344",
+      "67343"
+    ]
+  }
+]
 }
